@@ -18,3 +18,4 @@ Polygons:
 Convex (all inner angles under 180 degrees) - Concave (all inner angles over 180 degrees).
 
 Hitbox importance (triangle, rectangle, circle).
+
